@@ -1,0 +1,17 @@
+Player Name,snoopie's Owner
+Total Play Time,0
+Current Score,0
+last time play was used,1743724176649
+last time player went to vet,1743724176649
+Pets,Name,Type,Health,Happiness,Fullness,Sleep,Is Sleeping,Is Hungry,Is Angry,Is Dead
+Current Pet,snoopie,DOG,100,100,100,100,false,false,false,false
+Food Items,Name,Fullness Value,Quantity
+Food Item,Ramen,30,1
+Food Item,Smoothie,10,3
+Food Item,Apple,5,4
+Food Item,Taco,20,2
+Gift Items,Name,Happiness Value,Quantity
+Gift Item,Hat,30,1
+Gift Item,Ball,5,4
+Gift Item,Flowers,20,2
+Gift Item,Cards,10,3
